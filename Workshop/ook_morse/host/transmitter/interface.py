@@ -157,7 +157,7 @@ if __name__ == "__main__":
                         except KeyboardInterrupt:
                             break
                 elif cmd=="4":
-                    msg = "OZ3JJ Welcomes the best participants to Aalborg"
+                    msg = "Hello World"
                     while True:
                         try:
                             message_morse(msg)
